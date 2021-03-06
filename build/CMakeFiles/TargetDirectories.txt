@@ -1,0 +1,3 @@
+/home/joycepascale/Documents/IN_2A/IN204/Liseuse/build/CMakeFiles/rebuild_cache.dir
+/home/joycepascale/Documents/IN_2A/IN204/Liseuse/build/CMakeFiles/Liseuse.dir
+/home/joycepascale/Documents/IN_2A/IN204/Liseuse/build/CMakeFiles/edit_cache.dir
